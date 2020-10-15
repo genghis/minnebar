@@ -1,0 +1,11 @@
+`body` contains the parsed JSON body of the request for PATCH/POST/PUT method requests.
+
+`headers` contains all the HTTP headers that appeared in the API Gateway request.
+
+`method` contains the HTTP method used to call the API. This property makes it easier to provide the same Lambda to several different API Gateway methods.
+
+`params` contains the Request Path Parameters that you register with API Gateway by using curly-braces in the Method name.
+
+`query` contains the URL Query String Parameters that you register with API Gateway in the Method Request portion of the API.
+
+FROM: https://kennbrodhagen.net/2015/12/06/how-to-create-a-request-object-for-your-lambda-event-from-api-gateway/

@@ -57,3 +57,4 @@ Write your code!!
  * The file `skeleton.py` is a minimal bit of code you can use as a template for your own app. It's not technically the least amount of code necessary, but close and it's readable.
  * The file `taylorswift.py` is a heavily commented version of the code we walk through in the presentation, while `taylorswift_clean.py` is the code I actually use on-screen (since I'm there to talk, here's hoping the comments are unnecessary).
  * The file `testing.py` is a slightly modified version of the app that prints the appropriate results instead of trying to post them back to Slack. 
+ * The file `reference/eventobject.txt` is a reference for how NON-ZAPPA data comes to Lambdas
