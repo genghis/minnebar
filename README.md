@@ -1,5 +1,7 @@
 # Zappa / Flask Minnebar Demo
 
+Follow along here: https://www.youtube.com/watch?v=AtpimegefGU
+
 ## Before Starting
  * Create or be a member of a Slack Workspace (https://slack.com/create)
  * Create AWS account (https://aws.amazon.com/free)
